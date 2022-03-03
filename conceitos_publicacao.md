@@ -24,7 +24,7 @@
             - recursos limitados (não conseguimos aumentar recursis de memória, disco, banda e bancos)
             - Se algum site cair, cai todos os outros.
 
-## SERVIDOR DEDICADO
+## SERVIDOR DEDICADO - VPS
       Um servirdor para cada cliente, cada servidor pode ter vários site de apenas 1 cliente.
       * Prós
             - servidor exclusivo;
@@ -33,7 +33,7 @@
             - necessário conhecimento em linux/windows para configurar. Não temos o painel de contrike.
             - aumenta controle da segurança do servidor.
 
-## NUVEM (VMs) - Virtual Machines
+## NUVEM (VMs) - Virtual Machines - CLOUD
       Permite criar máquinas que não existem no mundo real para isolar uma aplicação/site.
       * Prós
             - permite testar coisas antes de colocar em produção

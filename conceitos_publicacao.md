@@ -29,3 +29,6 @@
       * Prós
             - servidor exclusivo;
             - aumentar/diminuir recursis conforme necessidade
+      * Contras
+            - necessário conhecimento em linux/windows para configurar. Não temos o painel de contrike.
+            - aumenta controle da segurança do servidor.

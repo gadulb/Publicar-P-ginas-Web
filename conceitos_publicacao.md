@@ -32,3 +32,6 @@
       * Contras
             - necessário conhecimento em linux/windows para configurar. Não temos o painel de contrike.
             - aumenta controle da segurança do servidor.
+
+## NUVEM (VMs) - Virtual Machines
+      Permite criar máquinas que não existem no mundo real para isolar uma aplicação/site.

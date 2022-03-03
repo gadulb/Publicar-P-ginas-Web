@@ -35,3 +35,20 @@
 
 ## NUVEM (VMs) - Virtual Machines
       Permite criar máquinas que não existem no mundo real para isolar uma aplicação/site.
+      * Prós
+            - permite testar coisas antes de colocar em produção
+            - mais fácil de gerenciar.
+            - bem mais fácil de gerenciar.
+            - paga-se por uso de recurso.
+            - se um vm parar de funcionar, somente ela é afetada.
+      * Contras
+            - bem mais caro que o servidor dedicado.
+
+## CONTAINERS
+      Permite criar um ambiente menor do que uma vm e distribuir os processos.
+      * Prós
+            - permite recuperação mais rápida.
+            - normalmente mais barto do que a vm.
+      * Contras
+            - mais complexo de gerenciar.
+            - mais conhecimento em infraestrutura de rede.

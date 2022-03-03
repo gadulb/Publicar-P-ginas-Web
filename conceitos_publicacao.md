@@ -11,5 +11,21 @@
 ** Ssitema operacional (Linux ou Windowns)
 
 
-# TAREFA
-Pesquisar servidores web para php com mysql gratuitos e realizar uma análise dos requisitos vistos em aula.
+# TIPOS DE SERVIDORES
+
+
+## COMPARTILHADO
+      Várias pessoas/empresas usam o mesmo servidor para criar diferentes sites/aplicações
+
+      * Prós
+            - mais barato
+            - mais fácil de configurar (possui um painel de controle - Cpanel)
+      * Contras
+            - recursos limitados (não conseguimos aumentar recursis de memória, disco, banda e bancos)
+            - Se algum site cair, cai todos os outros.
+
+## SERVIDOR DEDICADO
+      Um servirdor para cada cliente, cada servidor pode ter vários site de apenas 1 cliente.
+      * Prós
+            - servidor exclusivo;
+            - aumentar/diminuir recursis conforme necessidade
